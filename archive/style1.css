@@ -1,0 +1,14 @@
+body {
+background-color : yellow;
+color : green;
+}
+h1 {
+ font-size : 150%;
+ text-align : none;
+ color : red;
+
+}
+
+p {
+font-size : 80%;
+}

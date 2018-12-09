@@ -1,0 +1,6 @@
+.navbar-default {background-color: #4267b2;}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {color: white;}
+.navbar-default .navbar-brand {color: white;}
+.navbar-text {margin-right: 60px;}
+.navbar-text > * {color: white;}
+.navbar-default .navbar-text {color: white;}
